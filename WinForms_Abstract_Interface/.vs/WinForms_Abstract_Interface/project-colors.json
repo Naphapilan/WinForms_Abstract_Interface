@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0135ef1a-fb90-4a79-8f74-8b2e4fc6761a": {
+      "ProjectGuid": "0135ef1a-fb90-4a79-8f74-8b2e4fc6761a",
+      "DisplayName": "WinForms_Abstract_Interface",
+      "ColorIndex": 0
+    },
+    "4b07d52b-9c45-4cec-b9c6-59d35b8a3bfe": {
+      "ProjectGuid": "4b07d52b-9c45-4cec-b9c6-59d35b8a3bfe",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

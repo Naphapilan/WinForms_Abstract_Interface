@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\bin\Debug\WinForms_Abstract_Interface.exe.config
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\bin\Debug\WinForms_Abstract_Interface.exe
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\bin\Debug\WinForms_Abstract_Interface.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\obj\Debug\WinForms_Abstract_Interface.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\obj\Debug\WinForms_Abstract_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\obj\Debug\WinForms_Abstract_Interface.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\obj\Debug\WinForms_Abstract_Interface.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\obj\Debug\WinForms_Abstract_Interface.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\obj\Debug\WinForms_Abstract_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\obj\Debug\WinForms_Abstract_Interface.exe
+C:\Users\Admin\Documents\Visual Studio 2022\WinForms_Abstract_Interface\WinForms_Abstract_Interface\obj\Debug\WinForms_Abstract_Interface.pdb
